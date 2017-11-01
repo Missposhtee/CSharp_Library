@@ -1,0 +1,7 @@
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.02challenge\bin\Debug\0.02challenge.exe.config
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.02challenge\bin\Debug\0.02challenge.exe
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.02challenge\bin\Debug\0.02challenge.pdb
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.02challenge\obj\Debug\0.02_challenge.csprojResolveAssemblyReference.cache
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.02challenge\obj\Debug\0.02_challenge.csproj.CoreCompileInputs.cache
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.02challenge\obj\Debug\0.02challenge.exe
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.02challenge\obj\Debug\0.02challenge.pdb

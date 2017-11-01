@@ -1,0 +1,7 @@
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.03_string\obj\Debug\0.03_string.csprojResolveAssemblyReference.cache
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.03_string\obj\Debug\0.03_string.csproj.CoreCompileInputs.cache
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.03_string\bin\Debug\0.03_string.exe.config
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.03_string\bin\Debug\0.03_string.exe
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.03_string\bin\Debug\0.03_string.pdb
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.03_string\obj\Debug\0.03_string.exe
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.03_string\obj\Debug\0.03_string.pdb

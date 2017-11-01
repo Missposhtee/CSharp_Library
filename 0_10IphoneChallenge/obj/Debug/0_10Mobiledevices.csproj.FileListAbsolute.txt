@@ -1,0 +1,6 @@
+C:\DotNetProjects\csharplibrary\0_10IphoneChallenge\obj\Debug\0_10Mobiledevices.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\csharplibrary\0_10IphoneChallenge\bin\Debug\0_10IphoneChallenge.exe.config
+C:\DotNetProjects\csharplibrary\0_10IphoneChallenge\bin\Debug\0_10IphoneChallenge.exe
+C:\DotNetProjects\csharplibrary\0_10IphoneChallenge\bin\Debug\0_10IphoneChallenge.pdb
+C:\DotNetProjects\csharplibrary\0_10IphoneChallenge\obj\Debug\0_10IphoneChallenge.exe
+C:\DotNetProjects\csharplibrary\0_10IphoneChallenge\obj\Debug\0_10IphoneChallenge.pdb

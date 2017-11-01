@@ -1,0 +1,7 @@
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.02_basictypes\obj\Debug\0.02_basictypes.csprojResolveAssemblyReference.cache
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.02_basictypes\obj\Debug\0.02_basictypes.csproj.CoreCompileInputs.cache
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.02_basictypes\bin\Debug\0.02_basictypes.exe.config
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.02_basictypes\bin\Debug\0.02_basictypes.exe
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.02_basictypes\bin\Debug\0.02_basictypes.pdb
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.02_basictypes\obj\Debug\0.02_basictypes.exe
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.02_basictypes\obj\Debug\0.02_basictypes.pdb

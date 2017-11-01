@@ -1,0 +1,6 @@
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.06_LoopChallenge\bin\Debug\0.06_LoopChallenge.exe.config
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.06_LoopChallenge\bin\Debug\0.06_LoopChallenge.exe
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.06_LoopChallenge\bin\Debug\0.06_LoopChallenge.pdb
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.06_LoopChallenge\obj\Debug\0.06_LoopChallenge.csproj.CoreCompileInputs.cache
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.06_LoopChallenge\obj\Debug\0.06_LoopChallenge.exe
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.06_LoopChallenge\obj\Debug\0.06_LoopChallenge.pdb

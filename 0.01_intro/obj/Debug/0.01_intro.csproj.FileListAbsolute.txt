@@ -1,0 +1,7 @@
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.01_intro\bin\Debug\0.01_intro.exe.config
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.01_intro\bin\Debug\0.01_intro.exe
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.01_intro\bin\Debug\0.01_intro.pdb
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.01_intro\obj\Debug\0.01_intro.csprojResolveAssemblyReference.cache
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.01_intro\obj\Debug\0.01_intro.csproj.CoreCompileInputs.cache
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.01_intro\obj\Debug\0.01_intro.exe
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.01_intro\obj\Debug\0.01_intro.pdb

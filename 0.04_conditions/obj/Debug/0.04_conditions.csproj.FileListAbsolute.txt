@@ -1,0 +1,7 @@
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.04_conditions\bin\Debug\0.04_conditions.exe.config
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.04_conditions\bin\Debug\0.04_conditions.exe
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.04_conditions\bin\Debug\0.04_conditions.pdb
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.04_conditions\obj\Debug\0.04_conditions.csprojResolveAssemblyReference.cache
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.04_conditions\obj\Debug\0.04_conditions.csproj.CoreCompileInputs.cache
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.04_conditions\obj\Debug\0.04_conditions.exe
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.04_conditions\obj\Debug\0.04_conditions.pdb

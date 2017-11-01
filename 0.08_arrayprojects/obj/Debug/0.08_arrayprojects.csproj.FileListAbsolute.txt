@@ -1,0 +1,7 @@
+C:\DotNetProjects\csharplibrary\0.08_arrayprojects\bin\Debug\0.08_arrayprojects.exe.config
+C:\DotNetProjects\csharplibrary\0.08_arrayprojects\bin\Debug\0.08_arrayprojects.exe
+C:\DotNetProjects\csharplibrary\0.08_arrayprojects\bin\Debug\0.08_arrayprojects.pdb
+C:\DotNetProjects\csharplibrary\0.08_arrayprojects\obj\Debug\0.08_arrayprojects.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\csharplibrary\0.08_arrayprojects\obj\Debug\0.08_arrayprojects.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\csharplibrary\0.08_arrayprojects\obj\Debug\0.08_arrayprojects.exe
+C:\DotNetProjects\csharplibrary\0.08_arrayprojects\obj\Debug\0.08_arrayprojects.pdb

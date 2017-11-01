@@ -1,0 +1,7 @@
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.06_ForLoops\bin\Debug\0.06_ForLoops.exe.config
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.06_ForLoops\bin\Debug\0.06_ForLoops.exe
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.06_ForLoops\bin\Debug\0.06_ForLoops.pdb
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.06_ForLoops\obj\Debug\0.06_ForLoops.csprojResolveAssemblyReference.cache
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.06_ForLoops\obj\Debug\0.06_ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.06_ForLoops\obj\Debug\0.06_ForLoops.exe
+C:\Users\missp\Desktop\DotNetProjects\csharplibrary\0.06_ForLoops\obj\Debug\0.06_ForLoops.pdb
