@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharp_Library\CSharp_Library\bin\Debug\CSharp_Library.exe.config
+C:\DotNetProjects\CSharp_Library\CSharp_Library\bin\Debug\CSharp_Library.exe
+C:\DotNetProjects\CSharp_Library\CSharp_Library\bin\Debug\CSharp_Library.pdb
+C:\DotNetProjects\CSharp_Library\CSharp_Library\obj\Debug\CSharp_Library.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharp_Library\CSharp_Library\obj\Debug\CSharp_Library.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharp_Library\CSharp_Library\obj\Debug\CSharp_Library.exe
+C:\DotNetProjects\CSharp_Library\CSharp_Library\obj\Debug\CSharp_Library.pdb

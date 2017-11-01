@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharp_Library\0.13_GetterSetters\bin\Debug\0.13_GetterSetters.exe.config
+C:\DotNetProjects\CSharp_Library\0.13_GetterSetters\bin\Debug\0.13_GetterSetters.exe
+C:\DotNetProjects\CSharp_Library\0.13_GetterSetters\bin\Debug\0.13_GetterSetters.pdb
+C:\DotNetProjects\CSharp_Library\0.13_GetterSetters\obj\Debug\0.13_GetterSetters.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharp_Library\0.13_GetterSetters\obj\Debug\0.13_GetterSetters.exe
+C:\DotNetProjects\CSharp_Library\0.13_GetterSetters\obj\Debug\0.13_GetterSetters.pdb

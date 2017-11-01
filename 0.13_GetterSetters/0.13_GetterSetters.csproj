@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{32100D6F-EC55-462B-9F63-889E7D073642}</ProjectGuid>
+    <ProjectGuid>{1BA3194E-1C07-4AB3-A73A-EA72FF29A0D1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_0._12_methods_of_overloading</RootNamespace>
-    <AssemblyName>0.12_methods of overloading</AssemblyName>
+    <RootNamespace>_0._13_GetterSetters</RootNamespace>
+    <AssemblyName>0.13_GetterSetters</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Player.cs" />
+    <Compile Include="Employee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
