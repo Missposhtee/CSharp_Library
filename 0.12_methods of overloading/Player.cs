@@ -19,7 +19,7 @@ namespace _0._12_methods_of_overloading
             Console.WriteLine($"Attacked for {weapon} for {damage}!");
          }
 
-         public void Attack(int damage. string weapon, int hitTimes)
+         public void Attack(int damage, string weapon, int hitTimes)
          {
             Console.WriteLine($"Attacked for {weapon} {hitTimes} times for {totalDamage}!");
 
